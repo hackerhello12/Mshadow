@@ -1,0 +1,8 @@
+[
+  {
+    "server": "194.113.106.151",
+    "server_port": 598,
+    "password": "ef023868fe74f2e2",
+    "method": "AES-256-CFB"
+  }
+]
