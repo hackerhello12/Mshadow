@@ -4,5 +4,11 @@
     "server_port": 1080,
     "password": "0mNrmM8_VQKFtGvP2TRJ-A",
     "method": "chacha20-ietf-poly1305"
+  },
+  {
+    "server": "45.142.122.46",
+    "server_port": 443,
+    "password": "3022fa9366afb789",
+    "method": "aes-256-cfb"
   }
 ]
