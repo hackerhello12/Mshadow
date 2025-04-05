@@ -1,8 +1,1 @@
-[
-  {
-    "server": "45.9.41.40",
-    "server_port": 1080,
-    "password": "0mNrmM8_VQKFtGvP2TRJ-A",
-    "method": "chacha20-ietf-poly1305"
-  }
-]
+vless://a315b416-a46e-4523-ab1f-9ab8296b0cd4@212.104.128.188:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rakki.hikosu.online&fp=chrome&type=ws&sni=rakki.hikosu.online#[vless+ws+tls][cf]
