@@ -1,5 +1,11 @@
 [
   {
+    "server": "5.35.126.188",
+    "server_port": 668,
+    "password": "w7TCpcKKF8Kzw7vDl8O4SzccwrTCsQFNWcKSwotiw78MaEQnHcK0woBEwprCmsOXw6c=",
+    "method": "chacha20-ietf-poly1305"
+  },
+  {
     "server": "77.83.86.166",
     "server_port": 443,
     "password": "RG4adqW6mf7Xjpzvr+os1Ezv/Z9BLtiyehBdp8rFlRY=",
