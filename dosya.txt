@@ -1,14 +1,1 @@
-[
-  {
-    "server": "5.35.126.188",
-    "server_port": 668,
-    "password": "w7TCpcKKF8Kzw7vDl8O4SzccwrTCsQFNWcKSwotiw78MaEQnHcK0woBEwprCmsOXw6c=",
-    "method": "chacha20-ietf-poly1305"
-  },
-  {
-    "server": "77.83.86.166",
-    "server_port": 443,
-    "password": "RG4adqW6mf7Xjpzvr+os1Ezv/Z9BLtiyehBdp8rFlRY=",
-    "method": "chacha20-ietf-poly1305"
-  }
-]
+vless://1b4c0bcc-e30f-4626-906e-8dd63f7fff38@212.67.9.129:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#🇳🇱Nederland
